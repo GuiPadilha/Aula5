@@ -1,0 +1,66 @@
+body {
+	background:#32CD32;
+	font-family:Verdana;
+	font-size:18px;
+}
+
+section {
+	width:100%;
+	margin:auto;
+}
+
+aside {
+	width:30%;
+	height:1100px;
+	background:#00FF7F;
+	float:right;
+	color:#F8F8FF;
+}
+
+main {
+	width:70%;
+	height:1000px;
+	background-color:white;
+	float:right;
+}
+
+footer {
+	width:100%;
+	height:50px;
+	clear:both;
+	background-color:#00FF7F
+}
+
+.titulo {
+	font-family: 'Pangolin', cursive;
+	font-size:5em;
+	font-weight:800;
+	margin-left:2%;
+	color: #7FFFD4;
+	padding-top:3%;
+}
+
+/*Classe de menu usando um seletor composto*/
+
+.tabela,td {
+	border:2px solid #fff;
+	border-radius:8px;
+	width:90%;
+	padding:2%;
+}
+
+.top {
+	background:FFC0CB;
+	color:#CD5C5C;
+	font-weight:400;
+}
+
+.conteudo {
+	font-size:1em;
+	width:90%;
+	height:auto;
+	border:1px solid #ccc;
+	border-radius:8px;
+	padding:1%;
+	margin-left:2%;
+}
